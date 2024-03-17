@@ -1,0 +1,52 @@
+[
+    {
+        "model": "claude-3-opus-20240229",
+        "cap": "摘要",
+        "score": ""
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "cap": "缩写",
+        "score": 8
+    },
+    {
+        "model": "gpt-4-turbo-preview",
+        "cap": "摘要",
+        "score": 8
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "cap": "摘要",
+        "score": 8
+    },
+    {
+        "model": "ERNIE-4.0-8K|completions_pro",
+        "cap": "摘要",
+        "score": "3"
+    },
+    {
+        "model": "ERNIE-Speed-8K|ernie_speed",
+        "cap": "摘要",
+        "score": "6"
+    },
+    {
+        "model": "GLM-4",
+        "cap": "摘要",
+        "score": "4"
+    },
+    {
+        "model": "GLM-4V",
+        "cap": "摘要",
+        "score": "3"
+    },
+    {
+        "model": "sonar-medium-online",
+        "cap": "摘要",
+        "score": "4"
+    },
+    {
+        "model": "GLM-3-Turbo",
+        "cap": "摘要",
+        "score": "6"
+    }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Zhipu",
+    "models": ["GLM-4", "GLM-4V", "GLM-3-Turbo"],
+    "url": "https://open.bigmodel.cn/api/paas/v4/chat/completions",
+    "api_key": "eyJhbGciOiJIUzI1NiIsInNpZ25fdHlwZSI6IlNJR04iLCJ0eXAiOiJKV1QifQ.eyJhcGlfa2V5IjoiYjViOTNiMzBkM2QyYmFjZWZmMzAwYjM4MDJkNjcyM2EiLCJleHAiOjE3MTk2MTY2MzgyMzMsInRpbWVzdGFtcCI6MTcwOTYxNjYzODIzM30.hzM207kWQyDNWIFBbtANBcBmASLRkUKYDkG9jAgB78s",
+    "encoder": "utf-8",
+    "Authorization": "Authorization"
+  },
+  {
+    "company": "Moonshot",
+    "models": ["moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k"],
+    "url": "https://api.moonshot.cn/v1/chat/completions",
+    "api_key": "sk-2kT1DgbH5l6fNWYgPT0BMdVePmCGjLRwxxUytsfFUzeJo0DJ",
+    "encoder": "latin1",
+    "Authorization": "Authorization"
+  },
+  {
+    "company": "OpenAI",
+    "models": ["gpt-3.5-turbo", "gpt-4", "gpt-4-turbo-preview", "gpt-4-1106-preview", "gpt-4-0125-preview"],
+    "url": "https://api.openai.com/v1/chat/completions",
+    "api_key": "Bearer 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",
+    "encoder": "latin1",
+    "Authorization": "Authorization"
+  },
+    {
+    "company": "Baidu",
+    "models": ["ERNIE-4.0-8K|completions_pro", "ERNIE-Speed-8K|ernie_speed", "ERNIE-3.5-8K|completions", "ERNIE-Bot-8K|ernie_bot_8k", "Llama-2-70b-chat|llama_2_70b"],
+    "url": "https://aip.baidubce.com/rpc/2.0/ai_custom/v1/wenxinworkshop/chat/",
+    "api_key": "24.7b8039909ab08e61eac065d111fd32e8.2592000.1711506694.282335-47286511",
+    "encoder": "latin1",
+    "Authorization": "access_token"
+  },
+  {
+    "company": "Claude",
+    "models": ["claude-3-opus-20240229"],
+    "url": "https://api.anthropic.com/v1/messages",
+    "api_key": "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",
+    "encoder": "latin1",
+    "Authorization": "x-api-key"
+  },
+  {
+    "company": "Perplexity",
+    "models": ["sonar-medium-online"],
+    "url": "https://api.perplexity.ai/chat/completions",
+    "api_key": "Bearer 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",
+    "encoder": "utf-8",
+    "Authorization": "authorization"
+  }
+]
