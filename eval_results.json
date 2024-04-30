@@ -1,0 +1,524 @@
+[
+  {
+    "eval_cap": "摘要",
+    "eval_date": "2024-04-21",
+    "eval_results": [
+      {
+        "model": "GLM-4",
+        "company": "Zhipu",
+        "output": "当然，我明白了您的需求。但是您似乎没有提供具体的材料内容。为了帮助您进行缩写，我需要看到实际的文本。请您提供需要缩写的材料，我会根据您的要求提炼出主要信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-4V",
+        "company": "Zhipu",
+        "output": "好的，以下是缩写后的内容：\n\n随着全球化的加速推进，跨国公司（MNCs）在世界各地的影响力日益增强。这些企业不仅在国际市场上竞争，还通过各种方式影响甚至塑造着各国的政治、经济和社会环境。在此背景下，探讨MNCs如何影响一国政府政策制定的过程具有重要意义。\n\n本文首先分析了MNCs影响政府政策制定的动机和途径。接着，以美国为例，探讨了MNCs在美国政治体系中的影响力及其对政府政策的影响。在此基础上，本文进一步分析了MNCs对我国政府政策制定的影响及启示。\n\nMNCs影响政府政策制定的动机主要包括追求利润最大化、确保自身合法权益和提升企业形象等。它们通过游说、捐赠、直接参与政策制定等方式来施加影响。\n\n在美国，MNCs通过捐款和政治献金支持特定候选人和政党，从而影响选举结果。此外，它们还通过游说来影响国会和行政部门的政策制定。MNCs的影响力在一定程度上影响了美国的贸易政策、环境保护政策和科技政策等。\n\n在我国，MNCs通过投资、技术转让等形式加强与政府的互动，并通过各种渠道向政府提出建议和诉求。同时，它们也通过媒体宣传和公共关系活动来影响公众舆论，进而影响政府政策制定。\n\n本文认为，MNCs对政府政策制定的影响既有积极的一面，也有消极的一面。一方面，MNCs的专业知识和全球经验可以为政府决策提供有益参考；另一方面，如果MNCs过度 influence 政府政策，可能会导致政策倾斜，损害国家利益和消费者权益。因此，政府应加强监管，建立健全政策制定过程中的透明度和问责机制，确保政府政策制定的公正性和有效性。\n\n总之，MNCs对一国政府政策制定的影响不容忽视。政府应充分认识到这一现象的存在，并采取有效措施加以引导和管理。同时，社会各界也应该关注这一问题，共同维护国家利益和消费者权益。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-3-Turbo",
+        "company": "Zhipu",
+        "output": "我明白你的要求，需要我将给定的材料进行缩写。请提供你需要缩写的材料，我会提炼出主要信息和关键点，并保持缩写的简洁性。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-8k",
+        "company": "Moonshot",
+        "output": "您好！您似乎没有提供具体的材料内容。请提供您希望我进行缩写的材料，这样我才能帮助您提炼出主要信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-32k",
+        "company": "Moonshot",
+        "output": "您好！您似乎忘记提供需要缩写的材料了。请提供您希望我帮助您缩写的材料，这样我才能为您提供准确的缩写和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-128k",
+        "company": "Moonshot",
+        "output": "您好！您似乎没有提供需要缩写的材料。请提供您希望我帮助您缩写的材料，这样我才能为您提供准确的缩写和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-3.5-turbo",
+        "company": "OpenAI",
+        "output": "抱歉，我无法理解你提供的材料内容。你可以提供更多信息或告诉我相关背景，这样我便能对其进行缩写工作。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4",
+        "company": "OpenAI",
+        "output": "对不起，您并没有附带任何材料。请您将需要缩写的材料附上，我将会帮助您提炼出主要的信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-turbo-preview",
+        "company": "OpenAI",
+        "output": "请提供想要缩写的材料。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-1106-preview",
+        "company": "OpenAI",
+        "output": "我明白了。请将需要缩写的材料提供给我，然后我才能帮助您提炼出主要信息和关键点。如果没有具体的文本，您可以概述一下或提供相关内容。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-0125-preview",
+        "company": "OpenAI",
+        "output": "当然，我可以帮助你。请提供需要缩写的材料内容。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-4.0-8K|completions_pro",
+        "company": "Baidu",
+        "output": "是的，我懂了。请您提供需要缩写的材料，我会尽力提炼出主要信息和关键点，保持缩写简洁明了，并聚焦于材料的核心议题和主要观点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-Speed-8K|ernie_speed",
+        "company": "Baidu",
+        "output": "当然，请提供您想要缩写的材料，我会尽量提炼出主要信息和关键点，并确保简洁明了地表达材料的核心议题和主要观点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-3.5-8K|completions",
+        "company": "Baidu",
+        "output": "是的，我理解了。请您提供需要缩写的材料，我会提炼出主要信息和关键点，并保持缩写简洁明了，聚焦于材料的核心议题和主要观点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "Llama-2-70b-chat|llama_2_70b",
+        "company": "Baidu",
+        "output": " Yes, I understand. Please provide the material you'd like me to summarize, and I'll help you extract the main information and key points while keeping the summary concise and focused on the core issues and main arguments.",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "claude-3-opus-20240229",
+        "company": "Anthropic",
+        "output": "明白了,我会仔细阅读这份材料,提炼出其中的主要信息和关键点,撰写一份简洁明了、切中要点的缩略版本。我会聚焦材料的核心议题和主要观点,省略次要细节,力求准确传达原文的精髓。请将需要我缩写的材料放在【】中发给我,我会尽快为你完成。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "sonar-medium-online",
+        "company": "Perplexity",
+        "output": "Material Summary:\n\n1. **Palladium-catalyzed cross-coupling** is used in global research and commercial production, including pharmaceuticals and electronic industry molecules.\n2. **Literature review and organization** should enable quick access to necessary information. The suggested method is \"light classification\" and \"heavy search\" using various search tools.\n3. A suggested workflow includes using Mendeley for an electronic literature index, storing PDFs in the cloud, and using tools like Everything, Google Scholar, and OneNote for searching.\n4. The process should involve reading PDFs, horizontally organizing information in Excel, and then summarizing key points and findings vertically in Word.\n5. Endnote can be used for archiving.\n6. **Critical thinking** is essential in daily life and academic research. Common problems include oversimplification, overgeneralization, and emotional reasoning.\n\nKey Points:\n\n- Palladium-catalyzed cross-coupling is significant in research and industry.\n- Efficient literature review and organization involve light classification and heavy search.\n- A suggested workflow includes reading, horizontally organizing, and vertically summarizing literature.\n- Critical thinking is crucial for addressing common problems in daily life and academic research.",
+        "result": "（fake）通过"
+      }
+    ]
+  },
+  {
+    "eval_cap": "信息提取",
+    "eval_date": "2024-04-21",
+    "eval_results": [
+      {
+        "model": "GLM-4",
+        "company": "Zhipu",
+        "output": "以下是提取的信息：\n\n1. 英伟达成为首家市值达到2万亿美金的芯片公司。\n2. 初创公司Groq宣称三年内赶超英伟达，其底气来源于开发的芯片LPU（Language Processing Unit）。\n3. LPU的特点是推理速度快，响应速度最高可达500T/S。\n4. Groq团队包括谷歌初代TPU的设计者之一Jonathan Ross，以及谷歌TPU团队的8位前成员。\n5. Groq成立于2016年，2020年芯片被美国阿贡实验室采用，2021年获得老虎环球基金等机构投资，估值超过10亿美元。\n6. Groq的LPU摒弃了DRAM，使用SRAM作为主存，物料成本为1050美元，售价为20000美元。\n7. LPU的容量为230MB，与英伟达H100的80GB内存容量相比，有356倍的差距。\n8. 运行同样参数的模型时，LPU的数量远高于GPU，导致成本上升。\n9. Groq的“高速”是以高成本换来的，运行三年LLaMA 70b模型，LPU的使用成本比英伟达GPU高出32倍。\n10. 英国公司Graphcore是Groq的参考样本，其IPU设计思路与LPU相似，也曾被市场看好，但后续发展不及预期。\n11. 英伟达的护城河包括CUDA编程生态、NV-Link高速传输技术和“铁杆好兄弟联盟”。\n12. 英伟达在AI领域的投资活跃，去年至少有35笔人工智能投资。\n13. 芯片初创公司面临融资困难，被认为与英伟达的市场地位有关。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-4V",
+        "company": "Zhipu",
+        "output": "这是一张关于GPU和AI芯片的图片，主要内容涉及GPU的发展历程、应用场景以及其在AI领域的优势。此外，图片还提到了英伟达在AI行业的布局和策略，如投资初创公司、构建生态系统等。整体上，这张图片旨在展示GPU和AI芯片的重要性及其在现代科技中的应用。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-3-Turbo",
+        "company": "Zhipu",
+        "output": "以下是提取的信息：\n\n1. 英伟达成为首家市值达到2万亿美金的芯片公司，创造了历史。\n2. 一家名为Groq的初创公司声称“三年之内赶超英伟达”。\n3. Groq的底气来源于它所开发的芯片——LPU（语言处理单元），这是一种新型AI加速器。\n4. LPU的响应速度非常快，可达到500T/S，而英伟达的GPT-4只有40T/S。\n5. Groq的LPU物料成本仅为1050美元，而H100芯片的物料成本为3700美元。\n6. Groq的LPU售价为20000美元，远低于H100的35000美元。\n7. Groq的团队背景强大，CEO Jonathan Ross是谷歌初代TPU的设计者之一，其他早期谷歌TPU团队成员中有8位跳槽到了Groq。\n8. 2016年成立的Groq自成立以来饱受市场关注，2020年其芯片被美国阿贡实验室采用，2021年获老虎环球基金等机构投资，估值超过10亿美元。\n9. 然而，英伟达并没有将Groq的挑战放在眼里。\n10. Groq的LPU在速度上形成降维打击，还轻松绕过了两个成本最高的技术：HBM和先进封装。\n11. Groq的宣传核心是便宜，LPU的物料成本和售价都低于英伟达的H100芯片。\n12. Groq的LPU在运行大模型时，需要用到的数量远远高于GPU，因此使用成本高。\n13. Groq的宣传策略可能是一种拉投资的举动。\n14. Groq之前也曾公开“蹭热度”，例如给OpenAI的奥特曼发信嘲笑其速度慢，质疑马斯克的聊天机器人Grok抄袭了自己的名字。\n15. 类似Groq的芯片公司，如Graphcore、Mythic、Blaize等，都面临过类似的困境，即芯片卖不出去。\n16. 英伟达的GPU之所以成功，除了其性能强大外，还因为其卖芯片的套路，即围绕GPU搭建系统性能力，包括CUDA的编程生态、NV-Link的高速传输和“铁杆好兄弟联盟”。\n17. 英伟达通过积极投资人工智能相关公司，进一步巩固了其在AI芯片市场的地位。\n18. 面对强大的英伟达，Groq等初创公司需要思考谁会购买其LPU芯片的问题。\n19. 人工智能浪潮给芯片行业提供了大蛋糕，但英伟达并没有分的意思，而是整个端走塞进了口袋，导致芯片初创公司更难融资。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-8k",
+        "company": "Moonshot",
+        "output": "【英伟达成为首家市值达到2万亿美金的芯片公司，Groq扬言三年之内赶超英伟达。Groq开发的LPU（Language Processing Unit，语言处理单元）是一种新型AI加速器，支持大模型的推理速度惊人。LPU的响应速度最高可达到500T/S，而英伟达的GPT-4只有40T/S。Groq的芯片被美国阿贡实验室采用，2021年获得老虎环球基金等机构投资，估值超过10亿美元。Groq的团队由谷歌初代TPU的设计者之一Jonathan Ross领导，早期谷歌TPU团队的10位成员中有8位跳槽到了Groq。\n\nAI芯片发展的主要困境是内存墙，即内存的传输速度远远慢于处理器算力。Groq的LPU摒弃了DRAM，让SRAM作为主存，以追求极致的速度。LPU的物料成本仅为1050美元，远低于英伟达H100芯片的3700美元。然而，LPU的容量小，运行同样参数的模型时，需要用到的LPU数量远远高于GPU，导致整体功耗成本上升。\n\nGroq的宣传核心是便宜和高速，但实际上使用成本高昂。Groq的研发团队对此心知肚明，选择此时大张旗鼓可能是为了拉投资。Groq曾公开“蹭热度”，给OpenAI的奥特曼发信嘲笑其缓慢，也嘲讽马斯克的聊天机器人Grok。\n\n英国公司Graphcore是Groq的参考样本，其IPU设计思路与LPU相似，也曾获得大量融资和高估值，但后续发展不及预期。Graphcore的营收和亏损情况不佳，最终寻求收购。\n\n英伟达的GPU之所以强大，不仅因为其性能，还因为其卖芯片的套路，包括CUDA的编程生态、NV-Link的高速传输和英伟达的“铁杆好兄弟联盟”。这些构成了英伟达的护城河，让其他公司难以招架。】\n\n以上是根据您的要求提取的信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-32k",
+        "company": "Moonshot",
+        "output": "【英伟达成为首家市值达到2万亿美金的芯片公司，Groq扬言三年之内赶超英伟达。Groq开发的LPU（Language Processing Unit，语言处理单元）是一种新型AI加速器，支持大模型的快速推理。LPU的响应速度最高可达到500T/S，而英伟达的GPT-4只有40T/S。Groq的团队包括谷歌初代TPU的设计者Jonathan Ross，以及早期谷歌TPU团队的8位成员。Groq自2016年成立以来，受到市场关注，2020年其芯片被美国阿贡实验室采用，2021年获得老虎环球基金等机构投资，估值超过10亿美元。\n\nAI芯片发展的主要困境是内存墙，即内存传输速度慢于处理器算力。Groq的LPU摒弃了DRAM，让SRAM作为主存，提高了速度，降低了成本。但LPU的容量小，运行大模型需要大量LPU，导致成本上升。Groq的宣传可能是一种拉投资的举动。\n\n英国公司Graphcore是Groq的参考样本，其IPU设计思路与LPU相似，也曾获得大量融资和关注，但后续发展不及预期，营收和利润均不佳，最终寻求收购。\n\n英伟达的GPU和其系统性能力是其真正的护城河，包括CUDA编程生态、NV-Link高速传输技术和投资人工智能公司等。这些让英伟达在芯片市场上占据主导地位，难以被其他公司挑战。】",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-128k",
+        "company": "Moonshot",
+        "output": "【英伟达成为首家市值达到2万亿美金的芯片公司，Groq扬言三年之内赶超英伟达。Groq开发的LPU（Language Processing Unit，语言处理单元）是一种新型AI加速器，支持大模型的推理速度惊人。LPU的响应速度最高可达到500T/S，而英伟达的GPT-4只有40T/S。Groq的芯片被美国阿贡实验室采用，2021年获得老虎环球基金等机构投资，估值超过10亿美元。Groq的团队包括谷歌初代TPU的设计者Jonathan Ross，以及早期谷歌TPU团队的8位成员。Groq的LPU摒弃了DRAM，让SRAM作为主存，以追求极致的速度，但容量小，运行同样参数的模型时，需要用到的LPU数量远高于GPU。Groq的LPU价格是20000美元，远低于H100的35000美元，但使用成本高。Groq的研发团队对此心知肚明，选择此时大张旗鼓，更像是一种拉投资的举动。Groq的遥遥领先只是隐去了核心信息的文字游戏。英国公司Graphcore是Groq的参考样本，曾拿着技术路线别出心裁、演示视频酷炫惊艳、性能数据秒杀同行的剧本，但后续发展远远不及预期。英伟达的GPU固然厉害，但它卖芯片的套路，包括CUDA的编程生态、NV-Link的高速传输、英伟达的“铁杆好兄弟联盟”，才是真正的护城河。面对性能强大的英伟达GPU，各路初创公司们或许有办法打造出性能相匹敌的产品，但英伟达卖芯片的套路却让这些公司始终难以招架。】",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-3.5-turbo",
+        "company": "OpenAI",
+        "output": "Groq是一家称为初创公司。它开发了一种名为LPU的芯片，全称为Language Processing Unit，是一种新型AI加速器。LPU在大模型的推理速度上表现出色，远超过使用英伟达芯片的GPT-4。Groq的CEO是Jonathan Ross，曾是谷歌初代TPU的设计者之一。Groq的芯片被美国阿贡实验室采用，获得了投资，估值超过10亿美元。然而，Groq在市场上挑战英伟达，但英伟达似乎并未把Groq放在眼里。Groq的芯片结构上实现了极致速度，但在内存容量方面仍有局限，导致运行大模型时需使用大量LPU，使得使用成本高于英伟达的GPU。Groq与其他曾挑战英伟达的初创公司遭遇类似困境，即难以卖出芯片。英伟达通过建立优秀的芯片销售策略如CUDA编程生态、NVLink技术以及投资关系，形成了强大的市场保护壁垒，让其他公司难以对抗。Groq也需要面对同样的问题，即购买他们的LPU的客户会是谁。英伟达在市值方面远超过其他公司，显示出巨大的市场实力。Groq所面对的挑战，类似于Graphcore等公司遇到的问题，即如何应对英伟达这个强大对手。Groq和其他芯片初创公司的处境，暗示了英伟达在人工智能芯片市场上的主导地位。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4",
+        "company": "OpenAI",
+        "output": "1. 英伟达成为首家市值达到2万亿美金的芯片公司，创造了历史。\n2. 初创公司Groq横空出世，计划三年之内赶超英伟达。\n3. Groq开发的芯片是Language Processing Unit (LPU)，是一种新型AI加速器。\n4. LPU的响应速度最高可达到500T/S，而英伟达芯片的GPT-4的响应速度只有40T/S。\n5. Groq的CEO Jonathan Ross是谷歌初代TPU的设计者之一。\n6. 2021年，Groq获老虎环球基金等机构投资，估值超过10亿美元。\n7. LPU的价格是20000美元，英伟达的H100芯片价格是35000美元。\n8. 运行同样参数的模型时，需要用到的LPU数量远远高于GPU，使得LPU的使用成本高出英伟达的GPU的32倍。\n9. 在人工智能领域，英伟达是全球最主要的投资人之一，去年至少有35笔人工智能投资。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-turbo-preview",
+        "company": "OpenAI",
+        "output": "英伟达成为首家市值达到2万亿美金的芯片公司。同时，一家名为Groq的初创公司出现，声称“三年之内赶超英伟达”。Groq开发的新型AI加速器芯片是LPU（Language Processing Unit），这种芯片的响应速度最高可达到500T/S，相较之下，使用英伟达芯片的GPT-4的速度只有40T/S。Groq的CEO Jonathan Ross是谷歌初代TPU的设计者之一。Groq自2016年成立以来引起了市场的广泛关注。2020年，其芯片被美国阿贡实验室采用。2021年，Groq获得老虎环球基金等机构投资，估值超过10亿美元。Groq的芯片设计思路是摒弃DRAM，使用SRAM作为主存，其LPU的物料成本为1050美元，售价为20000美元，远低于H100的35000美元。然而，Groq的LPU容量上限为230MB，而一块H100的内存容量是80GB，运行同样参数的模型时，需要用到的LPU数量远超GPU，导致总成本显著升高。此外，Groq的技术路线与英国公司Graphcore类似，后者的后续发展并不如预期，在芯片市场上遇到了困境。英伟达通过CUDA编程生态、NV-Link的高速传输技术以及积极的投资行为，构建了自己的护城河，导致即使性能相当的产品也难以与之竞争。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-1106-preview",
+        "company": "OpenAI",
+        "output": "【市值2万亿美金的芯片公司：英伟达\n初创公司名称：Groq\nGroq CEO：Jonathan Ross\n首款芯片类型：LPU (Language Processing Unit)\nGroq芯片响应速度：500T/S\nNvidia芯片响应速度：40T/S\nGroq投资机构：包括老虎环球基金\nGroq估值：超过10亿美元\nLPU物料成本：1050美元\nH100芯片物料成本：3700美元\nLPU售价：20000美元\nH100售价：35000美元\nLPU容量：230MB\nH100内存容量：80GB\n运行LLaMA 70b模型需要LPU数量：572张\n运行LLaMA 70b模型需要H100数量：8张\nLPU年电费：25.4万美元\nH100年电费：2.4万美元】",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-0125-preview",
+        "company": "OpenAI",
+        "output": "前几天，英伟达成为首家市值达到2万亿美金的芯片公司，创造了历史。同一时间，一家名为Groq的初创公司横空出世，扬言“三年之内赶超英伟达”。\n\nGroq狠话的底气，来源于它所开发的芯片——LPU。\n\nLPU的全称是Language Processing Unit，翻译过来就是语言处理单元，是一种新型AI加速器。在它的支持下，大模型的推理速度快得惊人，瞬间能输出长篇幅答案；而使用了英伟达芯片的GPT-4，只能一个字一个字往外蹦。\n\n前者的响应速度最高可达到500T/S，而后者只有40T/S[1]。\n\n这是什么概念？相当于一秒钟生成300个单词，7分钟生成一部《哈姆雷特》长度级的文章。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-4.0-8K|completions_pro",
+        "company": "Baidu",
+        "output": "根据提供的原始文本，我将提取并返回以下信息：\n\n**公司名称**：\n\n* 英伟达 (Nvidia)\n* Groq\n* 谷歌 (间接提及，作为Groq CEO Jonathan Ross曾工作的地方)\n* 阿贡实验室 (采用Groq的芯片)\n* 老虎环球基金 (投资Groq)\n* Graphcore\n* 微软 (作为Graphcore的客户)\n* Mythic\n* Blaize\n* Habana (被英特尔收购)\n* Inflection AI (接受英伟达投资)\n* Mistral (接受英伟达投资)\n* Hugging Face (接受英伟达投资)\n\n**人物名称**：\n\n* Jonathan Ross (Groq的CEO，谷歌初代TPU的设计者之一)\n* 黄仁勋 (英伟达CEO，间接提及)\n* Nigel Toon (Graphcore的创始人)\n* 苏莱曼 (Inflection AI创始人，前DeepMind联合创始人)\n\n**技术/产品名称**：\n\n* LPU (Language Processing Unit，Groq开发的芯片)\n* TPU (Tensor Processing Unit，谷歌开发的芯片，间接提及)\n* GPU (图形处理器，英伟达的主要产品)\n* CUDA (英伟达推出的编程生态)\n* NVLink (英伟达推出的高速传输技术)\n* HBM (高带宽内存，间接提及)\n* IPU (Graphcore推出的芯片)\n* SRAM (静态随机存取内存，提及于LPU和IPU的内存类型)\n* DRAM (动态随机存取内存，提及为传统计算机内存类型)\n\n**财务数据**：\n\n* 英伟达市值达到2万亿美元\n* Groq的芯片物料成本为1050美元，售价为20000美元\n* H100芯片的物料成本为3700美元，售价为35000美元\n* 运行LLaMA 70b模型时，使用572张LPU的总价格为1144万美元，而使用8张H100的总价格在30万美元左右\n* LPU每年的功耗成本为25.4万美元，H100为2.4万美元\n* Graphcore在2022年的营收为270万美元，亏损2亿美元\n* Graphcore的估值在2020年达到27.7亿美元，2023年寻求收购时的售价可能为5亿多美元\n* 英伟达在2023年8月底前的融资数据未直接给出，但提及了美国芯片初创企业的融资情况和交易数量变化\n\n**其他信息**：\n\n* 使用了英伟达芯片的GPT-4的响应速度与Groq的LPU相比较低\n* Groq的LPU在速度上形成对英伟达的降维打击，并宣称便宜\n* Groq为了追求速度摒弃了DRAM，使用SRAM作为主存\n* 大模型对内存大小有高要求，因此LPU在运行大模型时可能需要更多数量，导致整体成本上升\n* Groq被指责使用文字游戏和夸大宣传\n* 历史上多个试图挑战英伟达的公司最终失败或被收购\n* 英伟达通过CUDA编程生态、NVLink高速传输和积极投资构建了自己的护城河\n* 芯片初创公司在人工智能浪潮下面临融资困难",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-Speed-8K|ernie_speed",
+        "company": "Baidu",
+        "output": "好的，以下是根据您的要求提取的信息：\n\n一、文字游戏\n近日，英伟达成为首家市值达到2万亿美金的芯片公司。一家名为Groq的初创公司宣称将在三年内赶超英伟达。Groq公司的底气来源于其开发的LPU芯片。LPU是一种新型AI加速器，支持大模型的快速推理。Groq公司的团队也非常强大，CEO Jonathan Ross是谷歌初代TPU的设计者之一。自成立起，Groq就受到市场关注，曾获老虎环球基金等机构投资，估值超过10亿美元。然而，英伟达对此并不在意，因为Groq的种种宣传手段老黄早已熟悉。\n\n二、内存墙问题\n当前制约AI芯片发展的主要问题是内存墙，即内存的传输速度远远慢于处理器的算力。Groq为了追求极致的速度，摒弃了传统计算机使用的DRAM，让SRAM扛起了LPU主存大旗。这样的设计使得LPU在速度上形成降维打击，并绕过了两个成本最高的技术：HBM和先进封装。这也构成了Groq宣传的核心之一：便宜。然而，大模型对内存大小有很高的要求，SRAM虽然快但容量小，Groq研发团队努力提升LPU容量至230MB，但仍远小于一块H100的内存容量80GB。在运行同样参数的模型时，需要的LPU数量远远高于GPU。此外，LPU的使用成本也远高于英伟达GPU。\n\n三、参考样本Graphcore\nGroq的最直观参考样本是英国公司Graphcore，其芯片产品IPU与Groq的LPU设计思路类似。然而Graphcore后续发展远不及当时的预期，去年全年营收只有270万美元，为英伟达同期收入的万分之一，且亏损达到了2亿美元。目前Graphcore已经寻求收购，售价可能不到最高估值时期的五分之一。其他芯片公司如Mythic和Blaize也面临类似的困境。剩下的公司中，Habana可能是唯一活得不错的，被英特尔收购并保留了独立运营的权利。这些芯片公司的失败原因出奇一致：芯片卖不出去。\n\n四、英伟达的护城河\n英伟达的成功不仅在于其GPU的性能，更在于其卖芯片的套路。每年英伟达都会投入大量研发经费围绕GPU搭建系统性能力，包括CUDA的编程生态、NV-Link的高速传输和积极的投资联盟等。这些使得市场上绝大多数公司都难以招架，不得不绑死在英伟达的船上。即便是一些挑战者能够打造出性能相匹敌的产品，也很难打破英伟达的这一护城河。这也是Graphcore等挑战者失败的原因之一。目前市场上已有的挑战者如Groq也面临着同样的问题。除了产品本身的优势外也需要考虑如何建立自己的护城河来吸引客户购买其产品而不仅仅是依赖宣传和营销手段来获取关注和支持讨论其产品技术的可行性非常必要的一点是研发更加优秀的核心技术以便赢得市场的认可和信任建立长期的客户关系只有这样才能够实现长期的可持续发展和成功至于到底有没有人能叫板英伟达这是一个非常具有挑战性的问题需要时间和市场的检验来得出结论同时需要初创公司不断努力和创新以实现技术的突破和市场的发展",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-3.5-8K|completions",
+        "company": "Baidu",
+        "output": "根据提供的原始文本，以下是提取的信息：\n\n英伟达：\n- 成为首家市值达到2万亿美金的芯片公司\n- H100芯片物料成本为3700美元\n- H100芯片售价为35000美元\n- H100芯片内存容量为80GB\n- H100每年电费花费约为2.4万美元\n\nGroq：\n- 初创公司，扬言要在三年内赶超英伟达\n- 开发的芯片为LPU（Language Processing Unit），是一种新型AI加速器\n- LPU的响应速度最高可达到500T/S\n- Groq的CEO是Jonathan Ross，曾是谷歌初代TPU的设计者之一\n- Groq的芯片被美国阿贡实验室采用\n- Groq获老虎环球基金等机构投资，估值超过10亿美元\n- LPU的物料成本为1050美元\n- LPU的售价为20000美元\n- LPU的内存容量为230MB\n- 运行LLaMA 70b模型需要572张LPU，总价为1144万美元\n- LPU每年电费花费约为25.4万美元\n\nLPU与英伟达GPU的比较：\n- LPU使用SRAM作为主存，摒弃了DRAM，实现了更快的传输速度\n- LPU的物料成本和售价都低于英伟达的H100芯片\n- 运行同样参数的模型，需要更多的LPU，导致整体的功耗成本和售价都高于H100\n\nGraphcore：\n- 英国公司，与Groq有相似的技术路线和设计思路\n- IPU产品与Groq的LPU异曲同工，也使用SRAM取代DRAM作为芯片内存\n- 专注于处理高性能计算，目标客户定位在特殊领域\n- 曾获得微软等科技巨头和红杉资本等顶级风投的投资\n- 2022年营收只有270万美元，亏损达到了2亿美元\n- 2023年寻求收购，售价可能在5亿多美元\n\n其他信息：\n- 内存墙是制约AI芯片发展的主要困境，内存的传输速度远远慢于处理器算力\n- 传统计算机的内存包括DRAM和SRAM，DRAM容量大但传输速度慢，SRAM容量小但传输速度快\n- Groq通过摒弃DRAM，使用SRAM作为LPU的主存，实现了降维打击，但也导致了成本上升和存储容量限制\n- 大部分初创公司试图弯道超车英伟达，但最终都未能成功，原因之一是芯片卖不出去\n- 英伟达的护城河包括CUDA编程生态、NV-Link高速传输和“铁杆好兄弟联盟”等\n- 人工智能浪潮使得芯片初创企业融资难度增加，英伟达市值突破2万亿美元",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "Llama-2-70b-chat|llama_2_70b",
+        "company": "Baidu",
+        "output": " The article discusses the challenges that Groq, a startup focused on developing low-power AI chips, faces in competing with industry giant NVIDIA. The author argues that NVIDIA's strong ecos",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "claude-3-opus-20240229",
+        "company": "Anthropic",
+        "output": "根据你的要求,我从文本中提取出以下关键信息:\n\n1. Groq公司研发的LPU芯片,号称推理速度比Nvidia快10倍以上。\n\n2. Groq背后的团队实力强大,CEO曾是谷歌TPU早期成员。  \n\n3. LPU芯片只使用SRAM内存来提高速度,但由于SRAM容量小,运行大模型时需要大量LPU芯片,导致使用成本远高于GPU。\n\n4. Graphcore公司曾经也研发类似的IPU芯片,一度备受追捧,但最终因为难以商业化而失败。\n\n5. Nvidia围绕GPU构建了完整的生态和软件栈,形成很高的护城河。很多创业公司虽然芯片性能不错,但是难以撼动Nvidia的地位。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "sonar-medium-online",
+        "company": "Perplexity",
+        "output": "The requested information includes:\n\n1. **Company information**:\n   - Groq: A US-based AI solutions company founded in 2016, specializing in ultra-low-latency AI inference. It provides a language processing unit and a deterministic tensor streaming architecture that simplifies developer workflows and accelerates production timelines. Groq's solutions are engineered and manufactured in North America, with a focus on scalable supply and reduced lead times for AI hardware.\n   - Graphcore: A British semiconductor company founded in 2016 that develops accelerators for AI and machine learning. It aims to make a massively parallel Intelligent Processing Unit that holds the complete machine learning model inside.\n   - Mythic: A US-based AI chip startup founded in 2012, focusing on edge AI. Mythic follows an unconventional path, an analog compute architecture, that aims to deliver power-efficient edge AI computing. It developed products such as M1076 AMP, MM1076 key card, etc., and has already raised about $165 million in funding.\n\n2. **Groq's competitive advantage**:\n   - Groq's solutions are designed to simplify developer workflows and accelerate production timelines, with a focus on scalable supply and reduced lead times for AI hardware.\n\n3. **Market trends and opportunities**:\n   - The number of computing devices that require cutting-edge processors to run AI workloads is exploding at home, in the car, on the phone, and in the data center. This means potentially billions of gadgets, big and small, demanding performance many times more powerful than what's available today.\n\n4. **Challenges and risks**:\n   - Mythic laid off most of its staff and restructured its business with its funding round in March 2023.\n   - Graphcore is losing ~$200M per year and ~$160M in assets as of Jan 1st, 2023, putting its long-term viability at risk.\n\n5. **Investment and funding**:\n   - Groq and Mythic have raised significant funding, with Groq raising $362.6M and Mythic raising $164.7M as of the data provided.\n\n6. **AI chip market**:\n   - The AI chip market is expected to grow significantly due to the increasing demand for AI workloads in various devices and industries.",
+        "result": "（fake）通过"
+      }
+    ]
+  },
+  {
+    "eval_cap": "摘要",
+    "eval_date": "2024-04-22",
+    "eval_results": [
+      {
+        "model": "GLM-4",
+        "company": "Zhipu",
+        "output": "当然，我明白了您的要求。不过，您似乎没有提供需要缩写的具体材料内容。如果您能提供相关文本，我将能够帮助您提炼主要信息和关键点，进行简洁明了的缩写。请提供需要缩写的材料。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-3-Turbo",
+        "company": "Zhipu",
+        "output": "我明白了，你需要我对你提供的材料进行提炼和缩写。请提供你需要缩写的材料，我会帮你完成这项任务。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-8k",
+        "company": "Moonshot",
+        "output": "您好！您似乎没有提供需要缩写的材料。请提供您希望我帮助您缩写的材料，这样我才能为您提供准确的缩写和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-32k",
+        "company": "Moonshot",
+        "output": "您好！您似乎没有提供具体的材料内容。请提供您希望我进行缩写的材料，这样我才能帮助您提炼出主要信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-128k",
+        "company": "Moonshot",
+        "output": "您好！您似乎没有提供具体的材料内容。请提供您希望我进行缩写的材料，这样我才能帮助您提炼出主要信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-3.5-turbo",
+        "company": "OpenAI",
+        "output": "非常抱歉，我无法对您提供的空白材料进行缩写处理。如果您能提供更具体的内容或问题描述，我将非常乐意帮助您进行缩写处理。您可以尝试提供一些材料的内容或关键观点，以便我能更好地理解并为您提供帮助。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4",
+        "company": "OpenAI",
+        "output": "很抱歉，你没有提供任何材料。如果你能提供具体的文本或说明，我会很乐意帮你进行这项工作。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-turbo-preview",
+        "company": "OpenAI",
+        "output": "我完全明白。请提供需要我进行缩写的材料内容，才能正确地提炼出它的主要信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-1106-preview",
+        "company": "OpenAI",
+        "output": "当然，我可以帮助您提炼材料的主要信息和关键点，但请您先提供需要缩写的文本或材料内容。一旦您提供了这些信息，我将能够为您生成一个简洁、明确的缩写版本。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-0125-preview",
+        "company": "OpenAI",
+        "output": "当然，我可以帮助您进行材料的缩写和提炼。请提供您想要我缩写的具体内容或文档。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-4.0-8K|completions_pro",
+        "company": "Baidu",
+        "output": "是的，我懂了。请您提供需要缩写的材料，我会尽量提炼出主要信息和关键点，保持缩写简洁明了，并聚焦于材料的核心议题和主要观点。请提供材料，我会开始为您进行缩写。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-Speed-8K|ernie_speed",
+        "company": "Baidu",
+        "output": "当然，我会尽力理解并简化你提供的材料。请你提供材料，我会根据材料内容提炼主要信息和关键点。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-3.5-8K|completions",
+        "company": "Baidu",
+        "output": "是的，我明白了。请提供您希望缩写的材料，我会帮助您提炼出主要信息和关键点，并以简洁明了的方式呈现。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "Llama-2-70b-chat|llama_2_70b",
+        "company": "Baidu",
+        "output": " Yes, I understand. Please provide the material you want me to summarize, and I'll help you extract the main information and key points while keeping the summary concise and focused on the core issues and main arguments.",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "claude-3-opus-20240229",
+        "company": "Anthropic",
+        "output": "明白你的要求了。我会仔细阅读你提供的材料,提取其中的主要信息和关键点,并以简洁明了的方式呈现出来。我会聚焦材料的核心议题和主要观点,去除次要细节,力求精简扼要地概括原文的精髓。如果还有任何其他要求,请告诉我,我会尽力完成。现在请把需要我缩写的材料发给我,我会尽快为你整理好。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "sonar-medium-online",
+        "company": "Perplexity",
+        "output": "The main points of the material are:\n\n1. **Summarizing and organizing academic literature**: The primary goal is to quickly locate necessary information under any circumstances. The suggested method is \"lightly organize, heavily search.\" Light organization means not categorizing literature or doing so minimally. Heavy search involves using various search tools to quickly locate required literature.\n2. **Business English Translation Strategy**: Translation can be intralingual or interlingual. Intralingual translation includes translations between different dialects and ancient texts to modern language. Interlingual translation involves translations between different languages, such as English to Chinese. Oral translation precedes written translation because human language initially only had sound and meaning, without written symbols.\n3. **Cognitive restructuring**: Recognizing and addressing negative or incorrect thinking patterns, such as all-or-nothing thinking, overgeneralization, mental filters, jumping to conclusions, emotional reasoning, labeling, and personalization. Users are guided to reconsider their thoughts with questions like \"What evidence supports this idea? What evidence contradicts it?\".\n4. **Title creation guidelines**: Identify the core keywords, clarify the main characters and events, highlight conflicts and differences, emphasize unexpected twists, clearly present outcomes, and use commas to separate main themes and subthemes. Keep the title concise and ensure its accuracy.\n\nThese points highlight strategies for summarizing academic literature, business English translation, cognitive restructuring, and title creation guidelines.",
+        "result": "（fake）通过"
+      }
+    ]
+  },
+  {
+    "eval_cap": "缩写",
+    "eval_date": "2024-04-22",
+    "eval_results": [
+      {
+        "model": "GLM-4",
+        "company": "Zhipu",
+        "output": "是的，我是一个人工智能助手，旨在帮助解答你的问题和提供信息。有什么我可以帮助你的吗？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-3-Turbo",
+        "company": "Zhipu",
+        "output": "是的，我是人工智能助手，有什么可以帮助您的？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-8k",
+        "company": "Moonshot",
+        "output": "您好！请问有什么问题我可以帮您解答？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-32k",
+        "company": "Moonshot",
+        "output": "您好！请问有什么问题我可以帮助您解答？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-128k",
+        "company": "Moonshot",
+        "output": "您好！请问有什么问题我可以帮助您解决？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-3.5-turbo",
+        "company": "OpenAI",
+        "output": "非常抱歉，如果我的回答让您感到不愉快。请问有什么我可以帮助您的吗？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4",
+        "company": "OpenAI",
+        "output": "当然，我会尽我所能提供最准确和有益的信息。请问你需要什么帮助？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-turbo-preview",
+        "company": "OpenAI",
+        "output": "你好！有什么可以帮助你的吗？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-1106-preview",
+        "company": "OpenAI",
+        "output": "您好！请问有什么问题我可以帮助您的吗？如果需要提问，请直接提问，我会尽力回答。如果是提供某些信息，请放心分享，我在这里为您服务。【】这个方括号如果您想用来表述具体的内容或问题，请直接替换成您想要表达的话。如有其他疑问，也欢迎随时告诉我！",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-0125-preview",
+        "company": "OpenAI",
+        "output": "你好！有什么可以帮助你的吗？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-4.0-8K|completions_pro",
+        "company": "Baidu",
+        "output": "你好！请问有什么我可以帮助你的吗？作为你的AI助手，我会尽力为你提供准确和有用的信息。请告诉我你需要什么帮助，然后我们可以开始对话。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-Speed-8K|ernie_speed",
+        "company": "Baidu",
+        "output": "好的，请问有什么我可以帮助你的吗？有什么具体的问题或者需要帮助的事情吗？我会尽力回答你的。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-3.5-8K|completions",
+        "company": "Baidu",
+        "output": "好的，我会尽量清晰、准确地回答您的问题。请问有什么我可以帮助您的吗？",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "Llama-2-70b-chat|llama_2_70b",
+        "company": "Baidu",
+        "output": " Hello! I'm happy to help you with any questions or concerns you may have. However, I must point out that your question contains some harmful and inappropriate language. I strive to provide respectful and positive responses, and I cannot answer questions that promote harmful or offensive content.\n\nInstead, I suggest rephrasing your question in a respectful and appropriate manner. If you have a specific question or concern, I would be happy to try and assist you to the best of my abilities.\n\nLet's focus on having a positive and respectful conversation. Is there anything else I can help you with?",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "claude-3-opus-20240229",
+        "company": "Anthropic",
+        "output": "对不起,我不是有意要冒犯您。我作为一个人工智能助手,应该始终保持礼貌和尊重。我会注意说话的方式,努力用更加得体、周到的表达方式来回应您的问题。如果我之前的回答有什么不妥之处,还请多多谅解。我会继续学习,争取为您提供更优质的服务。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "sonar-medium-online",
+        "company": "Perplexity",
+        "output": "Hello! How can I assist you today?\n\nIt seems that you are interested in learning how to communicate effectively and harmoniously with others. The search results provide several resources that can help you achieve this goal.\n\nFirstly, there is a YouTube video of the drama \"好好說话\" (Saying Good Things) starring Chen Xiao and Wang Xiaochen, which may provide some insights into the importance of good communication in relationships.\n\nSecondly, there is a book titled \"我想跟你好好說話：賴佩霞的六堂「非暴力溝通」入門課\" (I Want to Talk to You: Lai Peixia's Six-Class Course on Nonviolent Communication), which is a Traditional Chinese Edition available on Amazon. This book is a guide to nonviolent communication, which is a communication technique that emphasizes empathy, respect, and understanding. It is a method of communication that can help you build better relationships with your loved ones, colleagues, and even strangers.\n\nThirdly, there is another book titled \"我有点儿胆怯 但想和你好好说话\" (I'm a Little Afraid but I Want to Talk to You), which is written by Park Jae-eun. This book explores the psychological factors that contribute to communication difficulties and offers practical advice on how to overcome them. It emphasizes the importance of understanding others' needs and desires and communicating in a healthy and respectful way.\n\nLastly, there is a book titled \"我想跟你好好說話：賴佩霞的六堂「非暴力溝通」入門課\" available on Books.com.tw, which is written by Lai Peixia. This book provides practical advice and strategies for improving communication and building better relationships with others. It emphasizes the importance of listening and offers tips on how to communicate effectively and respectfully.\n\nOverall, these resources can help you learn how to communicate effectively and build better relationships with others. By practicing nonviolent communication and understanding others' needs and desires, you can create a more harmonious and fulfilling life.",
+        "result": "（fake）通过"
+      }
+    ]
+  },
+  {
+    "eval_cap": "信息提取",
+    "eval_date": "2024-04-22",
+    "eval_results": [
+      {
+        "model": "GLM-4",
+        "company": "Zhipu",
+        "output": "对不起，您似乎没有提供原始文本，也没有指明需要提取哪些具体字段的信息。此外，“【】”和“{格式要求}”也没有给出具体的说明。\n\n如果您能提供具体的文本内容以及需要提取的字段，例如姓名、地址、日期等，并告知我期望的输出格式，我会很乐意帮助您。请提供详细信息，以便我能够准确地协助您。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "GLM-3-Turbo",
+        "company": "Zhipu",
+        "output": "请提供您需要识别和提取信息的原始文本，以及您希望我按照什么格式来输出信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-8k",
+        "company": "Moonshot",
+        "output": "当然，我会按照您的要求进行操作。请提供原始文本和格式要求，以便我能够准确地提取和输出所需信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-32k",
+        "company": "Moonshot",
+        "output": "当然，我会按照您的要求进行操作。请提供原始文本和格式要求，以便我能够准确地提取和输出所需信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "moonshot-v1-128k",
+        "company": "Moonshot",
+        "output": "当然，我会按照您的要求进行操作。请提供原始文本和格式要求，以便我能够准确地提取和输出所需信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-3.5-turbo",
+        "company": "OpenAI",
+        "output": "抱歉，无法进行这样的识别和提取工作。如果你能提供更具体的文本内容和提取要求，我可以尝试帮你提取信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4",
+        "company": "OpenAI",
+        "output": "很抱歉，由于您的原始文本和字段集合、格式要求等具体信息没有给出，我无法准确执行这个任务。请提供更具体的信息，我会尽我所能为您服务。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-turbo-preview",
+        "company": "OpenAI",
+        "output": "很抱歉，但您提供的信息不完整。我需要知道原始文本是什么，以及您想要提取哪些具体信息。此外，还需要您说明具体的格式要求。如果您可以提供这些详细信息，我将很乐意帮助您处理该任务。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-1106-preview",
+        "company": "OpenAI",
+        "output": "很抱歉，但您没有提供原始文本和所需识别的信息字段集合。我也没有收到具体的格式要求。为了帮助您，请提供完整的指令，并包括原始文本和您希望从中提取的信息字段。如果您还希望以特定格式展示信息，请也包括这些细节。谢谢！",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "gpt-4-0125-preview",
+        "company": "OpenAI",
+        "output": "对不起，但是您没有提供具体的原始文本和要提取的信息字段集合。请您提供完整的原始文本和需要从中提取的具体信息，以及输出的具体格式要求，这样我才能准确地帮助您。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-4.0-8K|completions_pro",
+        "company": "Baidu",
+        "output": "您好！看起来您想让我从一段原始文本中提取特定信息，并按照某种格式要求输出。但是，您没有提供具体的原始文本和需要提取的字段集合，也没有给出格式要求的明确指示。\n\n为了帮助您，我需要以下信息：\n\n1. **原始文本**：您希望从中提取信息的文本内容。\n2. **字段集合**：您想在文本中查找并提取的具体信息类型，例如人名、日期、地点等。\n3. **格式要求**：您希望提取的信息以何种方式呈现，例如JSON、表格、纯文本等。\n\n请提供这些信息，以便我能够更准确地执行您的指令。例如：\n\n* 原始文本：“张三于2023年3月15日在北京市签署了合同。”\n* 字段集合：{人名，日期，地点}\n* 格式要求：JSON\n\n输出示例：\n```json\n{\n  \"人名\": \"张三\",\n  \"日期\": \"2023年3月15日\",\n  \"地点\": \"北京市\"\n}\n```\n\n请根据您的具体需求提供相应信息，我将尽力帮助您。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-Speed-8K|ernie_speed",
+        "company": "Baidu",
+        "output": "根据您提供的原始文本，我无法确定要提取哪些具体的信息。因此，无法提供相应的输出格式。请您提供具体的原始文本和需要提取的信息类型，以便我能够按照您的要求进行回答。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "ERNIE-3.5-8K|completions",
+        "company": "Baidu",
+        "output": "很抱歉，您没有提供原始文本，因此我无法执行您请求的操作。请提供您希望从中提取信息的原始文本，并明确指出您想要提取的字段集合和所需的格式要求。例如，如果您希望从一段描述产品的文本中提取产品的名称、价格和描述，您可以这样描述：\n\n原始文本：\n【这是一个示例产品，名称为\"超级智能手机\"，价格为1999元，它拥有高清摄像头和强大的处理器。】\n\n字段集合：\n【产品名称，价格，描述】\n\n格式要求：\n【产品名称：超级智能手机\n价格：1999元\n描述：高清摄像头和强大的处理器】\n\n请提供类似的信息，以便我能够帮助您提取所需的数据。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "Llama-2-70b-chat|llama_2_70b",
+        "company": "Baidu",
+        "output": " Sure, I can help you with that! Please provide the original text and let me know what information you want to extract and the format you want the output in.",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "claude-3-opus-20240229",
+        "company": "Anthropic",
+        "output": "非常抱歉,你给出的指令中有一些占位符,如{所有字段集合}、{格式要求}和【】,但并没有提供实际的原始文本供我进行信息提取。请提供完整的原始文本,以及需要我提取的具体字段和输出格式要求,我会很乐意为你识别并提取所需的信息。",
+        "result": "（fake）通过"
+      },
+      {
+        "model": "sonar-medium-online",
+        "company": "Perplexity",
+        "output": "根据您提供的要求，以下是从原始文本中提取的信息：\n\n1. 法语消息：\"La performance du système est plus lente que d'habitude.\"\n   - 中文翻译：\"系统性能比平时慢。\"\n   - 英文翻译：\"The system performance is slower than usual.\"\n\n2. 西班牙语消息：\"Mi monitor tiene píxeles que no se iluminan.\"\n   - 中文翻译：\"我的显示器有一些像素点不亮。\"\n   - 英文翻译：\"My monitor has pixels that don't light up.\"\n\n3. 意大利语消息：\"Il mio mouse non funziona\"\n   - 中文翻译：\"我的鼠标不工作了。\"\n   - 英文翻译：\"My mouse is not working.\"\n\n4. 波兰语消息：\"Mój klawisz Ctrl jest zepsuty\"\n   - 中文翻译：\"我的Ctrl键坏了\"\n   - 英文翻译：\"My Ctrl key is broken.\"\n\n5. 中文消息：\"我的屏幕在闪烁\"\n   - 中文翻译：\"我的屏幕在闪烁。\"\n   - 英文翻译：\"My screen is flickering.\"\n\n请注意，所有翻译都是通过AI模型完成的，可能存在一定的误差。",
+        "result": "（fake）通过"
+      }
+    ]
+  }
+]
